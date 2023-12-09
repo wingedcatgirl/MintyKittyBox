@@ -1,0 +1,15 @@
+Minty's box of kitties is planned to be a mod that adds a bunch of NPCs for my own entertainment and not much else. You might also enjoy it.
+
+Possible future features:
+-Some NPCs
+ -A catgirl and her friends
+-Some equipment items
+-Some pylons
+ -A special pylon for the NPCs (compare Sibling Pylon from Fargo's Mod)
+ -Versatile Pylon (Universal Pylon but you still need to build a town around it)
+ -Esoteric Pylon (a pylon for places which have no pylon of their own)
+-Some boss fights
+ -Use Evil Nip to summon...?
+
+Current features:
+-lol funy green sord

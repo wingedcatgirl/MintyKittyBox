@@ -1,0 +1,3 @@
+displayName = Minty's box of kitties
+author = Minty (wingedcatgirl)
+version = 0.1
