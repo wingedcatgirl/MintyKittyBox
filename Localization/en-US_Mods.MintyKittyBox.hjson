@@ -5,4 +5,14 @@ Items: {
 		DisplayName: Minty Sword
 		Tooltip: Smells delicious. Tastes like wood.
 	}
+
+	FlaskOfBees: {
+		DisplayName: Flask Of Bees
+		Tooltip:
+			'''
+			(Unfinished) 
+			Melee and whip attacks unleash bees 
+			'What's important really is: the beeeeeeeees!'
+			'''
+	}
 }
